@@ -16,4 +16,5 @@ int main()
     }
     printf("Total bill: Rs.%.2f\n", total);
     return 0;
+
 }
