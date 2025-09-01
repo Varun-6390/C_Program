@@ -1,3 +1,5 @@
+// Checking Even or Odd
+
 #include <stdio.h>
 void main()
 {
@@ -19,3 +21,4 @@ void main()
         printf("Number is odd.");
     }
 }
+
